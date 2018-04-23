@@ -1,0 +1,73 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "D:\...\WebSite\", "WebSite", "{18176CEF-9005-49D8-9B66-677C418C3C58}"
+	ProjectSection(WebsiteProperties) = preProject
+		ProjectReferences = ""
+		Debug.AspNetCompiler.VirtualPath = "/WebSite"
+		Debug.AspNetCompiler.PhysicalPath = "WebSite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WebSite\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WebSite"
+		Release.AspNetCompiler.PhysicalPath = "WebSite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WebSite\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "2806"
+		DefaultWebSiteLanguage = "Visual C#"
+	TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		DebugTest|.NET = DebugTest|.NET
+		DebugTest|Any CPU = DebugTest|Any CPU
+		DebugTest|Mixed Platforms = DebugTest|Mixed Platforms
+		DebugTestWithGAC|.NET = DebugTestWithGAC|.NET
+		DebugTestWithGAC|Any CPU = DebugTestWithGAC|Any CPU
+		DebugTestWithGAC|Mixed Platforms = DebugTestWithGAC|Mixed Platforms
+		DebugWithGAC|.NET = DebugWithGAC|.NET
+		DebugWithGAC|Any CPU = DebugWithGAC|Any CPU
+		DebugWithGAC|Mixed Platforms = DebugWithGAC|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18176CEF-9005-49D8-9B66-677C418C3C58}.Debug|.NET.ActiveCfg = Debug|.NET
+		{18176CEF-9005-49D8-9B66-677C418C3C58}.Debug|.NET.Build.0 = Debug|.NET
+		{18176CEF-9005-49D8-9B66-677C418C3C58}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{18176CEF-9005-49D8-9B66-677C418C3C58}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
+		{18176CEF-9005-49D8-9B66-677C418C3C58}.Debug|Mixed Platforms.Build.0 = Debug|.NET
+		{18176CEF-9005-49D8-9B66-677C418C3C58}.DebugTest|.NET.ActiveCfg = Debug|.NET
+		{18176CEF-9005-49D8-9B66-677C418C3C58}.DebugTest|.NET.Build.0 = Debug|.NET
+		{18176CEF-9005-49D8-9B66-677C418C3C58}.DebugTest|Any CPU.ActiveCfg = Debug|.NET
+		{18176CEF-9005-49D8-9B66-677C418C3C58}.DebugTest|Mixed Platforms.ActiveCfg = Debug|.NET
+		{18176CEF-9005-49D8-9B66-677C418C3C58}.DebugTest|Mixed Platforms.Build.0 = Debug|.NET
+		{18176CEF-9005-49D8-9B66-677C418C3C58}.DebugTestWithGAC|.NET.ActiveCfg = Debug|.NET
+		{18176CEF-9005-49D8-9B66-677C418C3C58}.DebugTestWithGAC|.NET.Build.0 = Debug|.NET
+		{18176CEF-9005-49D8-9B66-677C418C3C58}.DebugTestWithGAC|Any CPU.ActiveCfg = Debug|.NET
+		{18176CEF-9005-49D8-9B66-677C418C3C58}.DebugTestWithGAC|Mixed Platforms.ActiveCfg = Debug|.NET
+		{18176CEF-9005-49D8-9B66-677C418C3C58}.DebugTestWithGAC|Mixed Platforms.Build.0 = Debug|.NET
+		{18176CEF-9005-49D8-9B66-677C418C3C58}.DebugWithGAC|.NET.ActiveCfg = Debug|.NET
+		{18176CEF-9005-49D8-9B66-677C418C3C58}.DebugWithGAC|.NET.Build.0 = Debug|.NET
+		{18176CEF-9005-49D8-9B66-677C418C3C58}.DebugWithGAC|Any CPU.ActiveCfg = Debug|.NET
+		{18176CEF-9005-49D8-9B66-677C418C3C58}.DebugWithGAC|Mixed Platforms.ActiveCfg = Debug|.NET
+		{18176CEF-9005-49D8-9B66-677C418C3C58}.DebugWithGAC|Mixed Platforms.Build.0 = Debug|.NET
+		{18176CEF-9005-49D8-9B66-677C418C3C58}.Release|.NET.ActiveCfg = Debug|.NET
+		{18176CEF-9005-49D8-9B66-677C418C3C58}.Release|.NET.Build.0 = Debug|.NET
+		{18176CEF-9005-49D8-9B66-677C418C3C58}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{18176CEF-9005-49D8-9B66-677C418C3C58}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
+		{18176CEF-9005-49D8-9B66-677C418C3C58}.Release|Mixed Platforms.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
