@@ -5,6 +5,9 @@
 * [MovingItems.js](./CS/WebSite/Scripts/MovingItems.js) (VB: [MovingItems.js](./VB/WebSite/Scripts/MovingItems.js))
 <!-- default file list end -->
 # Moving items between two list boxes (client-side approach)
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e169/)**
+<!-- run online end -->
 
 
 <p>This example shows how to move items from the first ASPxListBox to the second ASPxListBox, while maintaining the original order of the items.</p>
