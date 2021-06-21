@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [MovingItems.js](./CS/WebSite/Scripts/MovingItems.js) (VB: [MovingItems.js](./VB/WebSite/Scripts/MovingItems.js))
+* [MovingItems.js](./CS/WebSite/Scripts/MovingItems.js) 
 <!-- default file list end -->
 # Moving items between two list boxes (client-side approach)
 <!-- run online -->
